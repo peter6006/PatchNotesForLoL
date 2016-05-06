@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Patch Notes for LoL</string>
+    <string name="old">Old Patch</string>
+    <string name="newp">Read</string>
+    <string name="not">Notify me each patch</string>
+    <string name="notnewti">New patch!</string>
+    <string name="notnewdesc">Open the app to download the new patch or click here.</string>
+    <string name="web">Web</string>
+    <string name="n">Next</string>
+    <string name="b">Back</string>
+    <string name="serv">Server</string>
+    <string name="lang">Lenguage</string>
+    <string name="na">NA</string>
+    <string name="euw">EUW</string>
+    <string name="eune">EUNE</string>
+    <string name="lan">LAN</string>
+    <string name="las">LAS</string>
+    <string name="br">BR</string>
+    <string name="jp">JP</string>
+    <string name="ru">RU</string>
+    <string name="tr">TR</string>
+    <string name="oce">OCE</string>
+    <string name="en">English</string>
+    <string name="es">Español</string>
+    <string name="it">Italiano</string>
+    <string name="de">Deutsch</string>
+    <string name="fr">Français</string>
+    <string name="el">Ελληνικά</string>
+    <string name="hu">Magyar</string>
+    <string name="pl">Polski</string>
+    <string name="ro">Română</string>
+    <string name="cs">Čeština</string>
+    <string name="pt">Português</string>
+    <string name="jp2">日本語</string>
+    <string name="ru2">Русский</string>
+    <string name="tr2">Türkçe</string>
+    <string name="title_activity_patch">Patch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="error">An error has occurred. \nWe can´t find that page :(</string>
+    <string name="title_activity_old_patch">OldPatch</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-4855450974262250/8298194729</string>
+
+</resources>
