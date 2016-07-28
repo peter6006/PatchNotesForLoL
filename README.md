@@ -17,6 +17,13 @@ patch = version[0] + "." + version[1];
 Then, if the app want to know if there is a new version, it will compare the last version in the array with the version saved locally, if the new version is higher, the app will ask the RIOT official page if the page is ready to read. If all is correcto, the app will notify the user about the new patch.
 When the user want to read the patch, the app re-do the same logic to make sure all is OK.
 
+### Screenshots
+
+<img src="http://i.imgur.com/jLTLjpU.png" width="270" height="480"/>
+<img src="http://i.imgur.com/nKZc3q3.png" width="270" height="480"/>
+<img src="http://i.imgur.com/v4WRvKd.png" width="270" height="480"/>
+<img src="http://i.imgur.com/nADpQHs.png" width="270" height="480"/>
+
 The sites where the App collect the data are the API and the official web site of each server+language.
 
 You can download the [App here](https://play.google.com/store/apps/details?id=peter.skydev.lolpatch.free)
